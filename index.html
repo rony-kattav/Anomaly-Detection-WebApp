@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Anomaly Detection WebApp</title>
+</head>
+<body background="https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulus-cloud.jpg">
+<form action="/detect" method="post" enctype="multipart/form-data" name="detectForm" target="result">
+    <table>
+        <tr>
+            <h1 style="font:italic; text-align:center">Anomaly Detection WebApp</h1>
+        </tr>
+        <tr>
+            <td>
+                <!-- select algorithm -->
+                <select onChange={this.myChangeHandler} name='algorithm' style="text-align:center">
+                    <option value="Regression">Regression</option>
+                    <option value="Hybrid">Hybrid</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Enter a path to a CSV file without anomalies:</td>
+            <td><input type="file" name="learn_file" style="text-align:center;"></td>
+        </tr>
+        <tr>
+            <td>Enter a path to a CSV file you wish to detect:</td>
+            <td><input type="file" name="detect_file" style="text-align:center;"></td>
+        </tr>
+        <br>
+    </table>
+    <input type="submit" value="upload" style="text-align:center;">
+</form>
+<br>
+<div style="text-align: center;">
+    <iframe name="result" width="80%" height="300" style="background:ghostwhite;"></iframe>
+</div>
+
+</body>
+</html>
