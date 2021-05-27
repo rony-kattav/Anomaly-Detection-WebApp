@@ -1,0 +1,790 @@
+{
+          "anomaly number 1": {
+                    "timeStep": 504,
+                    "features": "21-24"
+          },
+          "anomaly number 2": {
+                    "timeStep": 505,
+                    "features": "21-24"
+          },
+          "anomaly number 3": {
+                    "timeStep": 506,
+                    "features": "21-24"
+          },
+          "anomaly number 4": {
+                    "timeStep": 507,
+                    "features": "21-24"
+          },
+          "anomaly number 5": {
+                    "timeStep": 508,
+                    "features": "21-24"
+          },
+          "anomaly number 6": {
+                    "timeStep": 509,
+                    "features": "21-24"
+          },
+          "anomaly number 7": {
+                    "timeStep": 510,
+                    "features": "21-24"
+          },
+          "anomaly number 8": {
+                    "timeStep": 511,
+                    "features": "21-24"
+          },
+          "anomaly number 9": {
+                    "timeStep": 512,
+                    "features": "21-24"
+          },
+          "anomaly number 10": {
+                    "timeStep": 513,
+                    "features": "21-24"
+          },
+          "anomaly number 11": {
+                    "timeStep": 514,
+                    "features": "21-24"
+          },
+          "anomaly number 12": {
+                    "timeStep": 515,
+                    "features": "21-24"
+          },
+          "anomaly number 13": {
+                    "timeStep": 516,
+                    "features": "21-24"
+          },
+          "anomaly number 14": {
+                    "timeStep": 517,
+                    "features": "21-24"
+          },
+          "anomaly number 15": {
+                    "timeStep": 518,
+                    "features": "21-24"
+          },
+          "anomaly number 16": {
+                    "timeStep": 519,
+                    "features": "21-24"
+          },
+          "anomaly number 17": {
+                    "timeStep": 520,
+                    "features": "21-24"
+          },
+          "anomaly number 18": {
+                    "timeStep": 521,
+                    "features": "21-24"
+          },
+          "anomaly number 19": {
+                    "timeStep": 522,
+                    "features": "21-24"
+          },
+          "anomaly number 20": {
+                    "timeStep": 523,
+                    "features": "21-24"
+          },
+          "anomaly number 21": {
+                    "timeStep": 524,
+                    "features": "21-24"
+          },
+          "anomaly number 22": {
+                    "timeStep": 525,
+                    "features": "21-24"
+          },
+          "anomaly number 23": {
+                    "timeStep": 526,
+                    "features": "21-24"
+          },
+          "anomaly number 24": {
+                    "timeStep": 527,
+                    "features": "21-24"
+          },
+          "anomaly number 25": {
+                    "timeStep": 528,
+                    "features": "21-24"
+          },
+          "anomaly number 26": {
+                    "timeStep": 529,
+                    "features": "21-24"
+          },
+          "anomaly number 27": {
+                    "timeStep": 530,
+                    "features": "21-24"
+          },
+          "anomaly number 28": {
+                    "timeStep": 531,
+                    "features": "21-24"
+          },
+          "anomaly number 29": {
+                    "timeStep": 532,
+                    "features": "21-24"
+          },
+          "anomaly number 30": {
+                    "timeStep": 533,
+                    "features": "21-24"
+          },
+          "anomaly number 31": {
+                    "timeStep": 534,
+                    "features": "21-24"
+          },
+          "anomaly number 32": {
+                    "timeStep": 535,
+                    "features": "21-24"
+          },
+          "anomaly number 33": {
+                    "timeStep": 536,
+                    "features": "21-24"
+          },
+          "anomaly number 34": {
+                    "timeStep": 537,
+                    "features": "21-24"
+          },
+          "anomaly number 35": {
+                    "timeStep": 538,
+                    "features": "21-24"
+          },
+          "anomaly number 36": {
+                    "timeStep": 539,
+                    "features": "21-24"
+          },
+          "anomaly number 37": {
+                    "timeStep": 540,
+                    "features": "21-24"
+          },
+          "anomaly number 38": {
+                    "timeStep": 541,
+                    "features": "21-24"
+          },
+          "anomaly number 39": {
+                    "timeStep": 542,
+                    "features": "21-24"
+          },
+          "anomaly number 40": {
+                    "timeStep": 543,
+                    "features": "21-24"
+          },
+          "anomaly number 41": {
+                    "timeStep": 544,
+                    "features": "21-24"
+          },
+          "anomaly number 42": {
+                    "timeStep": 545,
+                    "features": "21-24"
+          },
+          "anomaly number 43": {
+                    "timeStep": 546,
+                    "features": "21-24"
+          },
+          "anomaly number 44": {
+                    "timeStep": 547,
+                    "features": "21-24"
+          },
+          "anomaly number 45": {
+                    "timeStep": 548,
+                    "features": "21-24"
+          },
+          "anomaly number 46": {
+                    "timeStep": 549,
+                    "features": "21-24"
+          },
+          "anomaly number 47": {
+                    "timeStep": 550,
+                    "features": "21-24"
+          },
+          "anomaly number 48": {
+                    "timeStep": 551,
+                    "features": "21-24"
+          },
+          "anomaly number 49": {
+                    "timeStep": 552,
+                    "features": "21-24"
+          },
+          "anomaly number 50": {
+                    "timeStep": 553,
+                    "features": "21-24"
+          },
+          "anomaly number 51": {
+                    "timeStep": 554,
+                    "features": "21-24"
+          },
+          "anomaly number 52": {
+                    "timeStep": 555,
+                    "features": "21-24"
+          },
+          "anomaly number 53": {
+                    "timeStep": 556,
+                    "features": "21-24"
+          },
+          "anomaly number 54": {
+                    "timeStep": 557,
+                    "features": "21-24"
+          },
+          "anomaly number 55": {
+                    "timeStep": 558,
+                    "features": "21-24"
+          },
+          "anomaly number 56": {
+                    "timeStep": 559,
+                    "features": "21-24"
+          },
+          "anomaly number 57": {
+                    "timeStep": 560,
+                    "features": "21-24"
+          },
+          "anomaly number 58": {
+                    "timeStep": 561,
+                    "features": "21-24"
+          },
+          "anomaly number 59": {
+                    "timeStep": 562,
+                    "features": "21-24"
+          },
+          "anomaly number 60": {
+                    "timeStep": 563,
+                    "features": "21-24"
+          },
+          "anomaly number 61": {
+                    "timeStep": 564,
+                    "features": "21-24"
+          },
+          "anomaly number 62": {
+                    "timeStep": 565,
+                    "features": "21-24"
+          },
+          "anomaly number 63": {
+                    "timeStep": 566,
+                    "features": "21-24"
+          },
+          "anomaly number 64": {
+                    "timeStep": 567,
+                    "features": "21-24"
+          },
+          "anomaly number 65": {
+                    "timeStep": 568,
+                    "features": "21-24"
+          },
+          "anomaly number 66": {
+                    "timeStep": 569,
+                    "features": "21-24"
+          },
+          "anomaly number 67": {
+                    "timeStep": 570,
+                    "features": "21-24"
+          },
+          "anomaly number 68": {
+                    "timeStep": 571,
+                    "features": "21-24"
+          },
+          "anomaly number 69": {
+                    "timeStep": 572,
+                    "features": "21-24"
+          },
+          "anomaly number 70": {
+                    "timeStep": 573,
+                    "features": "21-24"
+          },
+          "anomaly number 71": {
+                    "timeStep": 574,
+                    "features": "21-24"
+          },
+          "anomaly number 72": {
+                    "timeStep": 575,
+                    "features": "21-24"
+          },
+          "anomaly number 73": {
+                    "timeStep": 576,
+                    "features": "21-24"
+          },
+          "anomaly number 74": {
+                    "timeStep": 577,
+                    "features": "21-24"
+          },
+          "anomaly number 75": {
+                    "timeStep": 578,
+                    "features": "21-24"
+          },
+          "anomaly number 76": {
+                    "timeStep": 579,
+                    "features": "21-24"
+          },
+          "anomaly number 77": {
+                    "timeStep": 580,
+                    "features": "21-24"
+          },
+          "anomaly number 78": {
+                    "timeStep": 581,
+                    "features": "21-24"
+          },
+          "anomaly number 79": {
+                    "timeStep": 582,
+                    "features": "21-24"
+          },
+          "anomaly number 80": {
+                    "timeStep": 583,
+                    "features": "21-24"
+          },
+          "anomaly number 81": {
+                    "timeStep": 584,
+                    "features": "21-24"
+          },
+          "anomaly number 82": {
+                    "timeStep": 585,
+                    "features": "21-24"
+          },
+          "anomaly number 83": {
+                    "timeStep": 586,
+                    "features": "21-24"
+          },
+          "anomaly number 84": {
+                    "timeStep": 587,
+                    "features": "21-24"
+          },
+          "anomaly number 85": {
+                    "timeStep": 588,
+                    "features": "21-24"
+          },
+          "anomaly number 86": {
+                    "timeStep": 589,
+                    "features": "21-24"
+          },
+          "anomaly number 87": {
+                    "timeStep": 590,
+                    "features": "21-24"
+          },
+          "anomaly number 88": {
+                    "timeStep": 591,
+                    "features": "21-24"
+          },
+          "anomaly number 89": {
+                    "timeStep": 592,
+                    "features": "21-24"
+          },
+          "anomaly number 90": {
+                    "timeStep": 593,
+                    "features": "21-24"
+          },
+          "anomaly number 91": {
+                    "timeStep": 594,
+                    "features": "21-24"
+          },
+          "anomaly number 92": {
+                    "timeStep": 595,
+                    "features": "21-24"
+          },
+          "anomaly number 93": {
+                    "timeStep": 596,
+                    "features": "21-24"
+          },
+          "anomaly number 94": {
+                    "timeStep": 597,
+                    "features": "21-24"
+          },
+          "anomaly number 95": {
+                    "timeStep": 598,
+                    "features": "21-24"
+          },
+          "anomaly number 96": {
+                    "timeStep": 599,
+                    "features": "21-24"
+          },
+          "anomaly number 97": {
+                    "timeStep": 600,
+                    "features": "21-24"
+          },
+          "anomaly number 98": {
+                    "timeStep": 601,
+                    "features": "21-24"
+          },
+          "anomaly number 99": {
+                    "timeStep": 602,
+                    "features": "21-24"
+          },
+          "anomaly number 100": {
+                    "timeStep": 603,
+                    "features": "21-24"
+          },
+          "anomaly number 101": {
+                    "timeStep": 604,
+                    "features": "21-24"
+          },
+          "anomaly number 102": {
+                    "timeStep": 605,
+                    "features": "21-24"
+          },
+          "anomaly number 103": {
+                    "timeStep": 606,
+                    "features": "21-24"
+          },
+          "anomaly number 104": {
+                    "timeStep": 607,
+                    "features": "21-24"
+          },
+          "anomaly number 105": {
+                    "timeStep": 608,
+                    "features": "21-24"
+          },
+          "anomaly number 106": {
+                    "timeStep": 609,
+                    "features": "21-24"
+          },
+          "anomaly number 107": {
+                    "timeStep": 610,
+                    "features": "21-24"
+          },
+          "anomaly number 108": {
+                    "timeStep": 611,
+                    "features": "21-24"
+          },
+          "anomaly number 109": {
+                    "timeStep": 612,
+                    "features": "21-24"
+          },
+          "anomaly number 110": {
+                    "timeStep": 613,
+                    "features": "21-24"
+          },
+          "anomaly number 111": {
+                    "timeStep": 614,
+                    "features": "21-24"
+          },
+          "anomaly number 112": {
+                    "timeStep": 615,
+                    "features": "21-24"
+          },
+          "anomaly number 113": {
+                    "timeStep": 616,
+                    "features": "21-24"
+          },
+          "anomaly number 114": {
+                    "timeStep": 617,
+                    "features": "21-24"
+          },
+          "anomaly number 115": {
+                    "timeStep": 618,
+                    "features": "21-24"
+          },
+          "anomaly number 116": {
+                    "timeStep": 619,
+                    "features": "21-24"
+          },
+          "anomaly number 117": {
+                    "timeStep": 620,
+                    "features": "21-24"
+          },
+          "anomaly number 118": {
+                    "timeStep": 621,
+                    "features": "21-24"
+          },
+          "anomaly number 119": {
+                    "timeStep": 622,
+                    "features": "21-24"
+          },
+          "anomaly number 120": {
+                    "timeStep": 623,
+                    "features": "21-24"
+          },
+          "anomaly number 121": {
+                    "timeStep": 624,
+                    "features": "21-24"
+          },
+          "anomaly number 122": {
+                    "timeStep": 625,
+                    "features": "21-24"
+          },
+          "anomaly number 123": {
+                    "timeStep": 626,
+                    "features": "21-24"
+          },
+          "anomaly number 124": {
+                    "timeStep": 627,
+                    "features": "21-24"
+          },
+          "anomaly number 125": {
+                    "timeStep": 628,
+                    "features": "21-24"
+          },
+          "anomaly number 126": {
+                    "timeStep": 629,
+                    "features": "21-24"
+          },
+          "anomaly number 127": {
+                    "timeStep": 630,
+                    "features": "21-24"
+          },
+          "anomaly number 128": {
+                    "timeStep": 631,
+                    "features": "21-24"
+          },
+          "anomaly number 129": {
+                    "timeStep": 632,
+                    "features": "21-24"
+          },
+          "anomaly number 130": {
+                    "timeStep": 633,
+                    "features": "21-24"
+          },
+          "anomaly number 131": {
+                    "timeStep": 634,
+                    "features": "21-24"
+          },
+          "anomaly number 132": {
+                    "timeStep": 635,
+                    "features": "21-24"
+          },
+          "anomaly number 133": {
+                    "timeStep": 636,
+                    "features": "21-24"
+          },
+          "anomaly number 134": {
+                    "timeStep": 637,
+                    "features": "21-24"
+          },
+          "anomaly number 135": {
+                    "timeStep": 638,
+                    "features": "21-24"
+          },
+          "anomaly number 136": {
+                    "timeStep": 639,
+                    "features": "21-24"
+          },
+          "anomaly number 137": {
+                    "timeStep": 640,
+                    "features": "21-24"
+          },
+          "anomaly number 138": {
+                    "timeStep": 641,
+                    "features": "21-24"
+          },
+          "anomaly number 139": {
+                    "timeStep": 642,
+                    "features": "21-24"
+          },
+          "anomaly number 140": {
+                    "timeStep": 643,
+                    "features": "21-24"
+          },
+          "anomaly number 141": {
+                    "timeStep": 644,
+                    "features": "21-24"
+          },
+          "anomaly number 142": {
+                    "timeStep": 645,
+                    "features": "21-24"
+          },
+          "anomaly number 143": {
+                    "timeStep": 646,
+                    "features": "21-24"
+          },
+          "anomaly number 144": {
+                    "timeStep": 647,
+                    "features": "21-24"
+          },
+          "anomaly number 145": {
+                    "timeStep": 648,
+                    "features": "21-24"
+          },
+          "anomaly number 146": {
+                    "timeStep": 649,
+                    "features": "21-24"
+          },
+          "anomaly number 147": {
+                    "timeStep": 650,
+                    "features": "21-24"
+          },
+          "anomaly number 148": {
+                    "timeStep": 651,
+                    "features": "21-24"
+          },
+          "anomaly number 149": {
+                    "timeStep": 652,
+                    "features": "21-24"
+          },
+          "anomaly number 150": {
+                    "timeStep": 653,
+                    "features": "21-24"
+          },
+          "anomaly number 151": {
+                    "timeStep": 654,
+                    "features": "21-24"
+          },
+          "anomaly number 152": {
+                    "timeStep": 655,
+                    "features": "21-24"
+          },
+          "anomaly number 153": {
+                    "timeStep": 656,
+                    "features": "21-24"
+          },
+          "anomaly number 154": {
+                    "timeStep": 657,
+                    "features": "21-24"
+          },
+          "anomaly number 155": {
+                    "timeStep": 658,
+                    "features": "21-24"
+          },
+          "anomaly number 156": {
+                    "timeStep": 659,
+                    "features": "21-24"
+          },
+          "anomaly number 157": {
+                    "timeStep": 660,
+                    "features": "21-24"
+          },
+          "anomaly number 158": {
+                    "timeStep": 661,
+                    "features": "21-24"
+          },
+          "anomaly number 159": {
+                    "timeStep": 662,
+                    "features": "21-24"
+          },
+          "anomaly number 160": {
+                    "timeStep": 663,
+                    "features": "21-24"
+          },
+          "anomaly number 161": {
+                    "timeStep": 664,
+                    "features": "21-24"
+          },
+          "anomaly number 162": {
+                    "timeStep": 665,
+                    "features": "21-24"
+          },
+          "anomaly number 163": {
+                    "timeStep": 666,
+                    "features": "21-24"
+          },
+          "anomaly number 164": {
+                    "timeStep": 667,
+                    "features": "21-24"
+          },
+          "anomaly number 165": {
+                    "timeStep": 668,
+                    "features": "21-24"
+          },
+          "anomaly number 166": {
+                    "timeStep": 669,
+                    "features": "21-24"
+          },
+          "anomaly number 167": {
+                    "timeStep": 670,
+                    "features": "21-24"
+          },
+          "anomaly number 168": {
+                    "timeStep": 671,
+                    "features": "21-24"
+          },
+          "anomaly number 169": {
+                    "timeStep": 672,
+                    "features": "21-24"
+          },
+          "anomaly number 170": {
+                    "timeStep": 673,
+                    "features": "21-24"
+          },
+          "anomaly number 171": {
+                    "timeStep": 674,
+                    "features": "21-24"
+          },
+          "anomaly number 172": {
+                    "timeStep": 675,
+                    "features": "21-24"
+          },
+          "anomaly number 173": {
+                    "timeStep": 676,
+                    "features": "21-24"
+          },
+          "anomaly number 174": {
+                    "timeStep": 677,
+                    "features": "21-24"
+          },
+          "anomaly number 175": {
+                    "timeStep": 678,
+                    "features": "21-24"
+          },
+          "anomaly number 176": {
+                    "timeStep": 679,
+                    "features": "21-24"
+          },
+          "anomaly number 177": {
+                    "timeStep": 680,
+                    "features": "21-24"
+          },
+          "anomaly number 178": {
+                    "timeStep": 681,
+                    "features": "21-24"
+          },
+          "anomaly number 179": {
+                    "timeStep": 682,
+                    "features": "21-24"
+          },
+          "anomaly number 180": {
+                    "timeStep": 683,
+                    "features": "21-24"
+          },
+          "anomaly number 181": {
+                    "timeStep": 684,
+                    "features": "21-24"
+          },
+          "anomaly number 182": {
+                    "timeStep": 685,
+                    "features": "21-24"
+          },
+          "anomaly number 183": {
+                    "timeStep": 686,
+                    "features": "21-24"
+          },
+          "anomaly number 184": {
+                    "timeStep": 687,
+                    "features": "21-24"
+          },
+          "anomaly number 185": {
+                    "timeStep": 688,
+                    "features": "21-24"
+          },
+          "anomaly number 186": {
+                    "timeStep": 689,
+                    "features": "21-24"
+          },
+          "anomaly number 187": {
+                    "timeStep": 690,
+                    "features": "21-24"
+          },
+          "anomaly number 188": {
+                    "timeStep": 691,
+                    "features": "21-24"
+          },
+          "anomaly number 189": {
+                    "timeStep": 692,
+                    "features": "21-24"
+          },
+          "anomaly number 190": {
+                    "timeStep": 693,
+                    "features": "21-24"
+          },
+          "anomaly number 191": {
+                    "timeStep": 694,
+                    "features": "21-24"
+          },
+          "anomaly number 192": {
+                    "timeStep": 695,
+                    "features": "21-24"
+          },
+          "anomaly number 193": {
+                    "timeStep": 696,
+                    "features": "21-24"
+          },
+          "anomaly number 194": {
+                    "timeStep": 697,
+                    "features": "21-24"
+          },
+          "anomaly number 195": {
+                    "timeStep": 698,
+                    "features": "21-24"
+          },
+          "anomaly number 196": {
+                    "timeStep": 699,
+                    "features": "21-24"
+          },
+          "anomaly number 197": {
+                    "timeStep": 700,
+                    "features": "21-24"
+          }
+}
