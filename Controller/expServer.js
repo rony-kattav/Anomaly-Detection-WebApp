@@ -40,8 +40,8 @@ app.post("/detect", (req, res) => {
         // send the model the pathes to the files
         let result = model.detect(algorithm, learn_file.data.toString() , detect_file.data.toString())
 
-        res.write(result);
-        //view.display(res, result);
+        //res.write(result);
+        view.display(res, result);
 
 
         //res.redirect('/result')
