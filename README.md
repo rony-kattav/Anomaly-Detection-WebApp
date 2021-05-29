@@ -12,6 +12,7 @@ Both ways using HTML RESTful requests with MVC architecture.
 # Folders and Files
 In the GIT folder of the Anomaly-Detection-WebApp project there is the main branch with the lastest changes, a folder with PDFs explanations about the main classes and of course a folder named "ADP2-Flight Inspection App" with all the project files. 
 Our project is devided to 3 main folders:
+
 Model - the code that response to detect the anomalies from the given files 
 
 Controller - the code that response on getting the information from the user, send it to the model, get the result from the model and send the result to the user 
