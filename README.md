@@ -19,14 +19,19 @@ View - the code that response to the view the user see and use. In this case, th
 
 # Prerequests
 In oreder to use our web app, you will need to use node.js.
+
 **Installing node.js:**
+
 The official Node.js website has installation instructions for Node.js: https://nodejs.org
 
 In oreder to use the C code alogoritms in the app you will need to follow below instructions:
+
 **Addon:**
 
 # First running
+
 **Open the server:**
+
 In the command line, from the the address of the Controller folder, you will need to use the command: "node expServer.js".
 This will open the server and will make it listen to port 8080 on your localhost device.
 After running this command you will be able to open the browser in the address "localhost:8080/"
