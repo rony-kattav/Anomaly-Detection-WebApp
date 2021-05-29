@@ -4,20 +4,20 @@ The first file is a file from which the model is leraning the normal behavior, a
 
 There are two ways our web app can service a user.
 The first is from HTML page, in which the user choose the algorithm of detection, and load the files.
-When press the botton, the anomalies will appear in an inner frame and the user will be able to read it.
-The second is from a POST request that include the algorithm and the files and the user will get the anomalies in a JSON from the server.
+When pressing the botton, the anomalies will appear in an inner frame and the user will be able to read it.
+The second is from a POST request that includes the algorithm and the files. The user will get the anomalies in a JSON from the server.
 
 Both ways using HTML RESTful requests with MVC architecture.
 
 # Folders and Files
-In the GIT folder of the Anomaly-Detection-WebApp project there is the main branch with the lastest changes, a folder with PDFs explanations about the main classes and of course a folder named "ADP2-Flight Inspection App" with all the project files. 
+In the GIT folder of the Anomaly-Detection-WebApp project there is the main branch with the lastest changes, a folder with PDFs explanations about the main classes and a folder named "ADP2-Flight Inspection App" with all the project files. 
 Our project is devided to 3 main folders:
 
-Model - the code that response to detect the anomalies from the given files 
+Model - the code that responsible to detect the anomalies from the given files.
 
-Controller - the code that response on getting the information from the user, send it to the model, get the result from the model and send the result to the user 
+Controller - the code that responsible on getting the information from the user, send it to the model, get the result from the model and send the result to the user.
 
-View - the code that response to the view the user see and use. In this case, the HTML pages.
+View - the code that responsible to the view the user see and use. In this case, the HTML pages.
 
 
 # Prerequests
