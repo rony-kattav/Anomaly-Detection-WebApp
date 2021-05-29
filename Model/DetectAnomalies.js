@@ -1,29 +1,4 @@
 
-// //var regfile = "C:\\Users\\User\\Desktop\\flight\\reg_flight.csv";
-// //var anomalyfile = "C:\\Users\\User\\Desktop\\flight\\paths\\anomaly_flight20210411204122.csv";
-
-// var regfile = "./reg_flight.csv"
-// var anomalyfile = "./anomaly_flight20210411204122.csv";
-
-
-// var fs = require('fs');
-
-// fs.readFile(regfile, 'utf8', function(err, data) {
-//     if (err) throw err;
-//     /*
-//     fs.readFile(anomalyfile, 'utf8', function(err, data2) {
-//         if (err) throw err;
-//         console.log(detect("Hybrid", data, data2));
-//     });
-//     */
-//     console.log(detect("Hybrid", data, anomalyfile));
-
-// });
-
-
-
-//console.log(detect("Hybrid",regfile,anomalyfile));
-
 
 function detect(detector_type, regfile, anomalyfile){
 
@@ -90,18 +65,11 @@ function writeJSON(lines){
     }
     
 
-    var myobj = JSON.parse(text);
+    var jsonObj = JSON.parse(text);
     
-    var jsonfile = JSON.stringify(myobj,null,i);
+    var jsonString = JSON.stringify(jsonObj,null,i);
 
-    /*
-    var fs = require('fs');
-    const { features } = require('process');
-    fs.writeFile("Anomaly_Report.json", jsonfile, function(err, result) {
-        if(err) console.log('error', err);
-    });
-    */
 
-    return jsonfile;
+    return jsonObj;
     
 }

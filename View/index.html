@@ -1,43 +1,42 @@
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <title>Anomaly Detection WebApp</title>
 </head>
 <body background="https://www.metoffice.gov.uk/binaries/content/gallery/metofficegovuk/hero-images/weather/cloud/cumulus-cloud.jpg">
-<form action="/detect" method="post" enctype="multipart/form-data" name="detectForm" target="result">
-    <table>
-        <tr>
-            <h1 style="font:italic; text-align:center">Anomaly Detection WebApp</h1>
-        </tr>
-        <tr>
-            <td>
-                <!-- select algorithm -->
-                <select onChange={this.myChangeHandler} name='algorithm' style="text-align:center">
-                    <option value="Regression">Regression</option>
-                    <option value="Hybrid">Hybrid</option>
-                </select>
-            </td>
-        </tr>
-        <tr>
-            <td>Enter a path to a CSV file without anomalies:</td>
-            <td><input type="file" name="learn_file" style="text-align:center;"></td>
-        </tr>
-        <tr>
-            <td>Enter a path to a CSV file you wish to detect:</td>
-            <td><input type="file" name="detect_file" style="text-align:center;"></td>
-        </tr>
-        <br>
-    </table>
-    <input type="submit" value="upload" style="text-align:center;">
-</form>
-<br>
-<div style="text-align: center;">
-  <!--  <iframe name="result" width="80%" height="300" style="background:ghostwhite; color: rgb(125, 59, 59);"></iframe> -->
-    <iframe name="result" width="80%" height="300" style="background:ghostwhite; color: rgb(125, 59, 59);">
+<form action="/detect_html" method="post" enctype="multipart/form-data" name="searchForm" target="result">
+    <h1 style="font:italic; text-align:center">Anomaly Detection WebApp</h1>
 
-    </iframe>
+    <!-- select algorithm -->
+    <h3>
+        <select onChange={this.myChangeHandler} name='algorithm' style="width: 150; font-size: 20;">
+            <option value="Regression">Regression</option>
+            <option value="Hybrid">Hybrid</option>
+        </select>
+    </h3>
+
+    <!-- first path -->
+    <h3>
+        <p style="font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20;">
+            Enter a path to a CSV file without anomalies: </p>
+        <input type="file" name="learn_file" style="font: italic;">
+    </h3>
+
+    <!-- second path -->
+    <h3>
+        <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 20;">
+            Enter a path to a CSV file you wish to detect: </p>
+        <input type="file" name="detect_file" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    </h3>
+    <br/>
+    
+    <!-- upload button -->
+    <h3><input type="submit" value="upload" style="width: 130; font-size: 20;"></h3>
+
+</form>
+<!-- result box -->
+<div style="text-align: center; opacity: .7; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <iframe name="result" width="80%" height="300" style="background:rgb(248, 248, 255,.7);"></iframe>
 </div>
 
 </body>
