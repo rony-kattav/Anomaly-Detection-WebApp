@@ -117,8 +117,12 @@ void SimpleAnomalyDetector::learnNormal(const TimeSeries& ts) {
 vector<AnomalyReport> SimpleAnomalyDetector::detect(const TimeSeries& ts) {
 	vector<AnomalyReport> anomalies;
 	int numOfLines = ts.getTime();
-	for (int i = 0; i < cf.size(); i++) {
-		for (int j = 0; j < numOfLines; j++) {
+	// timeStep order
+	for (int j = 0; j < numOfLines; j++) {
+		for (int i = 0; i < cf.size(); i++) {
+	// alphabetical order		
+	//for (int i = 0; i < cf.size(); i++) {
+	//	for (int j = 0; j < numOfLines; j++) {
 			correlatedFeatures correlated = cf[i];
 			int time = j + 1;
 			Point p = Point(ts.getValue(time, correlated.feature1), ts.getValue(time, correlated.feature2));

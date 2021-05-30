@@ -62,16 +62,19 @@ app.post("/detect_html", (req, res) => {
 // when sending a POST with /detect it will get the result from the model and send it back to the view.
 app.post("/detect", (req, res) => {
 
-    let algorithm = req.query["algorithm"].toString();
+    let algorithm = req.query["algorithm"];
     if(!algorithm){
-    //// 422 error
-
+        res.status(422).send(`detecting algorithm was not specified. please send the file with key "algorithm".`);
     }
-    if(req.files) {
+    else if(req.files) {
 
         if(!req.files.learn_file || ! req.files.detect_file){
-            //422 error
-            res.write("422");
+            if(!req.files.learn_file){
+                res.status(422).send(`learn file was not specified. please send the file with key "learn_file".`);
+            }
+            else if( ! req.files.detect_file){
+                res.status(422).send(`detect file was not specified. please send the file with key "detect_file".`);
+            }
         }
         else{
             // get the files from the request
@@ -83,7 +86,8 @@ app.post("/detect", (req, res) => {
         }
     }
     else{
-        /// 422 error , empty file , non existing file, only one file , fields names
+        res.status(422).send(`no files found. please send the files with key "learn_file" and key "detect_file".`);
+
     }
 
     res.end()
