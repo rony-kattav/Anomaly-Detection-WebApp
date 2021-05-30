@@ -42,7 +42,8 @@ If you want to shut down the server, you can use ctrl+c and press Y.
 **Using the app via code:**
 After running "node expServer.js" command, use the address "localhost:8080/detect/" and send the detecting algoritm ("Hybrid"/"Reggression") and the csv files as shown in the video bellow. then you will get back the JSON of the anomalies.
 
-# Links to the full project's explenation in git
+# Link to UML of the project
+https://github.com/rony-kattav/Anomaly-Detection-WebApp/blob/main/Anomaly_Detection_WebApp_UML.pdf
 
 # link to the video
 https://youtu.be/3-FDk_oGhQY
