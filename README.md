@@ -45,6 +45,6 @@ After running "node expServer.js" command, use the address "localhost:8080/detec
 # Links to the full project's explenation in git
 
 # link to the video
-
+https://youtu.be/3-FDk_oGhQY
 
 
