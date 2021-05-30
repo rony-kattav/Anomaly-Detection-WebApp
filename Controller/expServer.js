@@ -49,11 +49,12 @@ app.post("/detect_html", (req, res) => {
                 view.display(res, result);
             }
         } 
-        if(error != 0){
-            view.popup(res,error,"red");
-        }
-
-
+    }
+    else{
+        error = "No files. Please try again."
+    }
+    if(error != 0){
+        view.popup(res,error,"red");
     }
     res.end()
 })
