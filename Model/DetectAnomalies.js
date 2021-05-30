@@ -70,6 +70,6 @@ function writeJSON(lines){
     var jsonString = JSON.stringify(jsonObj,null,i);
 
 
-    return jsonObj;
+    return jsonString;
     
 }
