@@ -26,20 +26,21 @@ In oreder to use our web app, you will need to use node.js.
 **Installing node.js:**
 
 The official Node.js website has installation instructions for Node.js: https://nodejs.org
+Then, you should go to your CLI (in windows-cmd) and both inside the **Controller** and inside the **Model** directories make the command **npm i** so it will download the required node-modules.
 
-In oreder to use the C code alogoritms in the app you will need to follow below instructions:
-
-**Addon:**
 
 # First running
 
 **Open the server:**
 
-In the command line, from the the address of the Controller folder, you will need to use the command: "node expServer.js".
+In the command line, from the the address of the Controller folder, you will need to use the command: **node expServer.js**.
 This will open the server and will make it listen to port 8080 on your localhost device.
-After running this command you will be able to open the browser in the address "localhost:8080/"
-and get the HTML page, or altrenative to use the address "localhost:8080/detect/" with the algoritm and files you want to load and get back the JSON of the anomalies.
-If you want to shut the server, you can use ctrl+c and press Y.
+**Using the app via HTML:**
+After running this command you will be able to open the browser in the address "localhost:8080" and get the HTML page. There you will follow the instructions and after that it will display for you the anomalies report.
+If you want to shut down the server, you can use ctrl+c and press Y.
+
+**Using the app via code**
+After running "node expServer.js" command, use the address "localhost:8080/detect/" and send the detecting algoritm ("Hybrid"/"Reggression") and the content of the csv files (a normal file to learn and a file to detect). then you will get back the JSON of the anomalies.
 
 # Links to the full project's explenation in git
 
