@@ -39,7 +39,7 @@ This will open the server and will make it listen to port 8080 on your localhost
 After running this command you will be able to open the browser in the address "localhost:8080" and get the HTML page. There you will follow the instructions and after that it will display for you the anomalies report.
 If you want to shut down the server, you can use ctrl+c and press Y.
 
-**Using the app via code**
+**Using the app via code:**
 After running "node expServer.js" command, use the address "localhost:8080/detect/" and send the detecting algoritm ("Hybrid"/"Reggression") and the csv files as shown in the video bellow. then you will get back the JSON of the anomalies.
 
 # Links to the full project's explenation in git
